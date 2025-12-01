@@ -1,0 +1,19 @@
+body {
+  font-family: 'Vazir', sans-serif;
+}
+
+/* پاک کردن اسپینر در Chrome, Safari */
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* پاک کردن اسپینر در Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+@import "@fontsource/vazirmatn/300.css";
+@import "@fontsource/vazirmatn/500.css";
+@import "@fontsource/vazirmatn/700.css";
