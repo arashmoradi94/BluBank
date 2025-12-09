@@ -43,4 +43,4 @@ A modern, high-performance interface clone of the **Blu Bank** website. This pro
 This project is created for **educational purposes only** to practice React and Vite workflows. It is not affiliated with Blu Bank.
 
 ## 📬 Contact
-Created by **Arash Moradi** - [LinkedIn Profile](Your-LinkedIn-URL-Here)
+Created by **Arash Moradi** - [LinkedIn Profile](https://www.linkedin.com/in/arash-moradi-3537b6290/)
