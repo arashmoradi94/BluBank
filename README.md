@@ -1,18 +1,46 @@
-# React + Vite
+# Blu Bank - UI Clone (React + Vite) ⚡️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-performance interface clone of the **Blu Bank** website. This project is built using **React** and powered by **Vite** to ensure a fast and optimized development experience. It demonstrates a component-based architecture and modern frontend practices.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [Click here to view the project](https://arashmoradi94.github.io/BluBank/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+*   **React.js:** Library for building user interfaces.
+*   **Vite:** Next Generation Frontend Tooling for lightning-fast HMR and bundling.
+*   **JSX:** Syntax extension for JavaScript.
+*   **CSS:** Custom styling for components.
+*   **Git & GitHub Pages:** Version control and deployment.
 
-## React Compiler
+## ✨ Key Features
+*   **Modern Build Tooling:** Utilized Vite for faster start-up and optimized build performance.
+*   **Component-Based Architecture:** Modular and reusable React components.
+*   **Responsive Design:** Optimized for mobile and desktop views.
+*   **Clean UI:** Implementation of Blu Bank's modern aesthetic.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## 💻 How to Run Locally
 
-Note: This will impact Vite dev & build performances.
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/arashmoradi94/BluBank.git
+    ```
+2.  Navigate to the project directory:
+    ```bash
+    cd BluBank
+    ```
+3.  Install dependencies:
+    ```bash
+    npm install
+    ```
+4.  Start the development server:
+    ```bash
+    npm run dev
+    ```
+    *(Note: Vite uses `npm run dev` instead of `npm start`)*
 
-## Expanding the ESLint configuration
+5.  Open your browser and go to the address shown in the terminal (usually `http://localhost:5173`).
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📝 Disclaimer
+This project is created for **educational purposes only** to practice React and Vite workflows. It is not affiliated with Blu Bank.
+
+## 📬 Contact
+Created by **Arash Moradi** - [LinkedIn Profile](Your-LinkedIn-URL-Here)
