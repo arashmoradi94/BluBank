@@ -1,4 +1,5 @@
 # Blu Bank - UI Clone (React + Vite) ⚡️
+<img width="1919" height="939" alt="Screenshot 2025-12-28 032733" src="https://github.com/user-attachments/assets/6607a810-2def-4be8-aeb1-1da518513ed9" />
 
 A modern, high-performance interface clone of the **Blu Bank** website. This project is built using **React** and powered by **Vite** to ensure a fast and optimized development experience. It demonstrates a component-based architecture and modern frontend practices.
 
